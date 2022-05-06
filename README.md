@@ -1,2 +1,2 @@
-# samin.py
-Samin
+print('satin')
+
